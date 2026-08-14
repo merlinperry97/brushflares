@@ -4,7 +4,7 @@ Hand-painted lens flares and streak bursts for Blender.
 
 **This repository is the bug tracker and support page for Brushflares. The add-on itself is a paid product and its source is not hosted here.**
 
-Buy it on [Gumroad](https://merlinperry.gumroad.com) or [Superhive](https://superhivemarket.com).
+Buy it on [Gumroad](https://merlin3d.gumroad.com/l/Brushflares) or [Superhive](https://superhivemarket.com/products/brushflares).
 
 ## Found a bug?
 
